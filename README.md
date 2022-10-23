@@ -6,7 +6,7 @@ Listed are the materials required for Case Study 1:
 
 ## Knit HTML file
 
-Codebook
+	Code and answers to questions of interest.
 
 ## CSV files
 	Beers.csv
