@@ -1,6 +1,7 @@
 # MDS-6306-DDS-Case-Study-01
 ## Case Study 1: Amy Adyanthaya & Christopher Williams
 Listed are the materials required for Case Study 1:
+
 ## RMarkdown and Knit HTML file
 Case_Study_1_2022_10_22.Rmd  
 Case_Study_1_2022_10_22.html
